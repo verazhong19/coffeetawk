@@ -29,7 +29,7 @@ const alipay = true;
 const weChat = true;
 const pickup = true
 
-while (store = true) {
+while (store == true) {
   if (entrance>0) {
     orderQueue+1;
     orderWaitTime+1;
